@@ -10,4 +10,6 @@
 	need to learn:
 		How to make Sprite
 
+	could add:
+		Path find for enemy
 
